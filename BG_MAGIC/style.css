@@ -1,0 +1,19 @@
+body{
+    background-image: url("image.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.lg{
+    margin-top: 300px;
+    height: 300px;
+    width: 300px;
+   background-image: linear-gradient(to bottom,red,yellow,black)
+}
+.rg{
+    margin-top: 300px;
+    height: 300px;
+    width: 300px;
+   background-image: radial-gradient(red,yellow,black)
+}
