@@ -1,0 +1,28 @@
+body{
+    font-family: monospace;color: blue;
+}
+h1{
+    text-align: center; 
+    background-color: rgb(189, 219, 228);
+    font-style: italic;
+    box-shadow: 20px 20px 20px red;
+}
+.pra{
+    color: blueviolet;
+    text-align: center;
+    font-size: larger;
+    font-weight: 300;
+}
+#p2{
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
+#p3{
+    text-decoration: overline;
+    text-shadow: 2px 2px 5px red
+    }
+    #p4{
+        border: 5px solid black;
+        background-image: linear-gradient(to bottom, red,black);
+        color: antiquewhite;
+    }
