@@ -1,0 +1,38 @@
+body{
+    background-image: url("Success-Story-KANAGWA-1.png");
+    background-repeat: repeat;
+    background-position: fixed;
+    background-size: cover;
+    font-family: monospace;
+    font-weight: bolder;
+    color: white;
+}
+h1{
+    color: silver;
+    text-align: center;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+}
+a:hover{
+    font-size: larger;
+    color: chocolate;
+    text-transform: uppercase;
+}
+ul li::after{
+    content:"🚀";
+}
+ul li{
+    color: blanchedalmond;
+    font-size: 0.9rem
+}
+#p1+#p2{
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(28, 153, 95);
+}
+p{
+    text-align: center;
+}
+
