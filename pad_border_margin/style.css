@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#Nothing{
+background-color: rgba(165, 42, 42, 0.384);
+}
+#Padding{
+    background-color: rgba(0, 255, 255, 0.445);
+    padding: 10px ; 
+    color: blue;
+    border: 3px solid rgba(12, 12, 88, 0.247) ;
+}
+#Border{
+    background-color: rgba(75, 224, 75, 0.534);
+    color: green;
+    border: 5px solid rgba(38, 161, 38, 0.5);
+}
+#Margin{
+    background-color: rgba(68, 16, 117, 0.336);
+    margin: 30px 20px 15px 10px ;
+    color: rgba(38, 0, 128, 0.445);
+    border: 10px dotted rgba(128, 0, 128, 0.322);
+}
