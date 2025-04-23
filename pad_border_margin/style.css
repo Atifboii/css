@@ -22,3 +22,11 @@ background-color: rgba(165, 42, 42, 0.384);
     color: rgba(38, 0, 128, 0.445);
     border: 10px dotted rgba(128, 0, 128, 0.322);
 }
+#all{
+    background-color: rgba(144, 161, 65, 0.336);
+    margin: 30px 20px 15px 10px ;
+    color: rgba(73, 104, 24, 0.445);
+    border: 10px dotted rgba(57, 116, 23, 0.322);
+    padding: 3px 5px 40px;
+    margin:30px 20px 15px 10px ;
+}
