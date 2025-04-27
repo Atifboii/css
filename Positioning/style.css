@@ -29,3 +29,15 @@ bottom: 25px;
     position: sticky;
     top: 50px;
 }
+#o1{
+opacity: 0.25;
+}
+#o2{
+ opacity: 0.50;
+}
+#o3{
+    opacity: 0.75;
+}
+#o4{
+    opacity: 0.9;
+}
