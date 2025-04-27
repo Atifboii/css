@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(0, 255, 255, 0.295);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    position: relative;
+    left: 350px;
+}
+#static{
+    position: static;
+    border: 5px solid rgba(33, 122, 206, 0.397);
+}
+#fixed{
+position: fixed;
+bottom: 25px;
+}
+#relative{
+    position: relative;
+    border: dotted rgba(0, 0, 255, 0.527);
+    background-color: rgba(0, 0, 255, 0.192);
+    left: 30px;
+    height: 150px;
+}
+#absolute{
+    position: absolute;
+    left: 40px;
+}
+#sticky{
+    position: sticky;
+    top: 50px;
+}
